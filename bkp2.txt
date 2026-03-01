@@ -1,0 +1,15 @@
+BACK_UP_FILE
+#4;everyone;1;f3.txt;1#
+#4;Emertxe;1;f3.txt;1#
+#6;good;1;f3.txt;1#
+#7;hi;2;f2.txt;1;f1.txt;1#
+#7;Hii;1;f1.txt;1#
+#8;is;1;f3.txt;1#
+#8;in;1;f3.txt;1#
+#12;morning;1;f3.txt;1#
+#12;manikanth;1;f3.txt;1#
+#18;studying;1;f3.txt;1#
+#26;123;1;f1.txt;1#
+#26;123mani;1;f1.txt;1#
+#27;*;1;f1.txt;1#
+#27;&;1;f1.txt;1#
